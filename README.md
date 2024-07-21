@@ -48,3 +48,6 @@ This result yeilded a 77.8% accuracy and a loss of 46.9%
 
 ![alt text](image-1.png)
 
+# Future Models
+
+A Random Forest belongs to the decision tree family of algorithms and are less prone to overfitting. A neural network or deep learning algorithm is most valuable when the features that are given carry no information individually. In this case, our features all have meaning individually so a Random Forest type algorithm might outperform the Deep Learning Model. 
